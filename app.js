@@ -7,7 +7,9 @@ const chatCloseBtn = document.querySelector(".close-btn");
 
 // Variables
 let userChat;
-const API_KEY = "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";
+
+//Add your API Key Here
+const API_KEY = "";
 const messageBoxHeight = userChatting.scrollHeight;
 
 // Create a chat message element
